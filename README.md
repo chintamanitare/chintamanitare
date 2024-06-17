@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Linux Administrator
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me anything about Administration
-- 📫 How to reach me: chintamani1804@mail.com
+- 📫 How to reach me: chintamani1804@gmail.com
 - 😄 My website: 
 - ⚡ Fun fact: I'm comming to teen
   
