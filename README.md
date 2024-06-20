@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me anything about Administration
 - 📫 How to reach me: chintamani1804@gmail.com
-- 😄 My website: 
+- 😄 My website: https://chintamanitare.netlify.app/
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
